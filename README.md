@@ -36,11 +36,3 @@ BBDTimerView *timerView = [[BBDTimerView alloc] initWithFrame:CGRectMake(x, y, w
 [UIColor colorWithHue:RandomLessOne saturation:RandomLessOneMoreHalf brightness:1.0 alpha:1.0]
 
 ```
-
-##备注
-
-粗糙的小工具，有好的建议可以给我留言。
-
-##联系方式
-
-电话：17190086025
